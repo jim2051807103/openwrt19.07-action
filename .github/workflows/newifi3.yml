@@ -1,12 +1,15 @@
 name: newifi3 OpenWrt
 
+
 on:
-  release:
-    types: [published]
-  push:
-    branches:
-      - main
-    paths:
+  repository_dispatch
+
+# release:
+#    types: [published]
+#  push:
+#    branches:
+#      - main
+#    paths:
       - '.config'
   #schedule:
   #    - cron: 0 22 * * *
