@@ -23,7 +23,7 @@ env:
   CONFIG_FILE: wr703n.config
   DIY_SH: newifi3.sh
   FREE_UP_DISK: false
-  SSH_ACTIONS: false
+  SSH_ACTIONS: ture
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
   TZ: Asia/Shanghai
