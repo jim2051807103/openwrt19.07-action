@@ -1,7 +1,7 @@
 name: newifi3 OpenWrt
 
 
-on:
+#on:
 #  repository_dispatch:
 
 # release:
@@ -13,7 +13,7 @@ on:
 #      - '.config'
   #schedule:
   #    - cron: 0 22 * * *
-  watch:
+#  watch:
   #  types: [started]
 
 env:
