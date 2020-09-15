@@ -1,7 +1,7 @@
 name: newifi3 OpenWrt
 
 
-#on:
+on:
 #  repository_dispatch:
 
 # release:
